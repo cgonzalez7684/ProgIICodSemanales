@@ -18,3 +18,11 @@ while lado > 1:
     # Decrementar el valor del lado para la siguiente fila
     lado = lado + 1
     
+    
+
+# while lado >= 1:    
+#     # Imprimir una fila de asteriscos
+#     print("*" * num_asteriscos)
+        
+#     # Decrementar el valor del lado para la siguiente fila    
+#     lado -= 1
